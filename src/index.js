@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './components/App'
 
 ReactDOM.render(
-  <App />,
+  // {/*<App />*/},
+   <div>Site under construction...</div>,
   document.querySelector('#root')
 );
